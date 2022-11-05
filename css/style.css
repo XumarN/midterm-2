@@ -1,0 +1,336 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 1400px;
+    height: 1534px;
+   /* background-color: red;*/
+    float: left;
+}
+.golden{
+    width: 1400px;
+    height: 313px;
+    background-color: #F4F5F7;
+}
+.crown{
+    width: 243px;
+    height: 52px;
+   /* background-color: blue;*/
+    float: left;
+    margin: 31px 100px 247px 90px ;
+    /*display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #27AE60;
+    font-size:30px;
+    padding-top: 28px;*/
+    background-image: url(../img/Frame.png);
+    background-repeat: no-repeat;
+}
+.haqqimizda{
+    width: 546px;
+    height: 22px;
+    /*background-color: blue;*/
+    margin: 48px 100px 13px 114px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #A1A8C3;
+    padding-bottom: 15px;
+    padding-right: 0px;
+    
+
+    
+}
+.yeni{
+    width: 305px;
+    height: 85px;
+    background-color: #253476;
+    float: left;
+    margin: -99px 0 0 660px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: #FFFFFF;
+    font-size: 20px;
+    
+
+}
+.gobelek{
+    width: 309px;
+    height: 79px;
+    /*background-color: blue;*/
+    float: left;
+    margin: -157px 311px 58px 790px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3E3E3E;
+    font-size: 36px;
+}
+.photo{
+   
+    background-size: cover ;
+    float: left;
+    margin:-345px 669px -178px 90px;
+
+}
+.second{
+    width: 1400px;
+    height: 1221px;
+    background-color: white;
+}
+.lazim{
+    width: 1110px;
+    height: 299px;
+    background-color:  #F4F5F7;
+    float: left;
+    margin:105px 145px 5px 93px;
+    
+}
+.lazim1{
+    width: 233px;
+    height: 299px;
+    background-color: #F4F5F7;;
+    margin: 0 45px 0 0;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #3E3E3E;
+    
+}
+
+
+.hazirlanmasi{
+    width: 701px;
+    height: 299px;
+    background-color: 
+    #F4F5F7;
+    float: left;
+    margin: -298px 29px 0 334px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color:  #3E3E3E;
+    
+}
+    
+
+.diger{
+    background-color: #E5E5E5;
+    width: 1110px;
+    height: 1px;
+    float: left;
+    margin: 41px 145px 27px 90px ;
+}
+.mixed1{
+    width:360px;
+    height: 182.86px;
+    background-color: #FFFFFF;
+    float: left;
+    margin: 27px 0px 0px 90px;
+}
+.mixed2{
+    width: 360px;
+    height: 182.86px;
+    background-color: #FFFFFF;
+    float: left;
+    margin: 27px 0px 0px 31px;
+}
+.mixed3{
+    width: 360px;
+    height: 182.86px;
+    background-color: #FFFFFF;
+    float: left;
+    margin: 27px 31px 0px 31px;
+}
+.sekil1{
+    background-size: cover;
+    width: 160px;
+    height: 182.86px;
+
+   
+
+}
+.sekil2{
+    background-size: cover;
+    width: 160px;
+    height: 182.86px;
+    
+    
+
+
+}
+.sekil3{
+    background-size: cover;
+    width: 160px;
+    height: 182.86px;
+ 
+}
+.yazi1{
+    width: 152px;
+    height: 16px;
+    /*background-color: blueviolet;*/
+    float: left;
+    margin: -147px 5px 16px 180px;
+    color:  #FFFFFF;
+    font-size: 20px;
+    font-style:  SemiBold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.yazi2{
+    width: 160px;
+    height: 64px;
+    background-color: #FFFFFF;
+    float: left;
+    margin: -86px 0px 50px 180px;
+    color: #858585;
+}
+.border{
+    width: 1px;
+    height: 210px;
+    float: left;
+    background-color:  #D7D8DA;
+    margin: 44px 44px 45px 2px;
+
+}
+.h{
+    float: left;
+    color:  #1F1F24;
+    font-size: 18px;
+    margin: 0 15px;
+    list-style: none;
+    decoration: none;
+}
+.x{
+    list-style: none;
+    font-size: 16px;
+}
+
+.time{
+    width: 164px;
+    height: 22px;
+    /*background-color: red;*/
+    float: left;
+    margin: 32px 31px 26px 790px;
+    color: #1F1F24;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 19px;
+    
+}
+.deq{
+    width: 96px;
+    height: 22px;
+    /*background-color: red;*/
+    float: left;
+    margin: -48px 31px 26px 988px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:18px ;
+    color: #27AE60;
+}
+.line{
+    width: 475px;
+    height: 2px;
+    background-color: #F4F5F7;
+    float: left; 
+    margin-top: 1px;
+    margin-right: 0px;
+    margin-left: 790px;
+    margin-bottom: 0px;
+    padding-right: px;
+
+}
+.paylas{
+    width: 53px;
+    height: 22px;
+    /*background-color: red;*/
+    float: left;
+    margin: 27px 23px 32px 790px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:18px ;
+    color:#1F1F24;
+}
+
+.icons{
+    width: 95px;
+    height: 26px;
+    /*background-color:red;*/
+    float: left;
+    margin:-58px 23px 30px 876px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.face{
+    background-color: #E3E4E5;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.teleg{
+    background-color: #27AE60;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: #CFD8DC;
+}
+
+.wp{
+    background-color: #E3E4E5;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+
+
+}
+.diger1{
+    width: 164px;
+    height: 29px;
+    /*background-color: red;*/
+    float: left;
+    margin: 11px 1089px -40px 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3E3E3E;
+    font-size: 24px;
+}
+.butun{
+    width: 124px;
+    height: 22px;
+    /*background-color: black;*/
+    float: left;
+    margin: 4px 146px -66px 1079px;
+    color: #3E3E3E;
+    font-size: 18px;
+}
+.haqqimizda ul a{
+    text-decoration: none;
+    color: #1F1F24;
+    font-size: 18px;
+}
+
